@@ -1,6 +1,6 @@
 Description :
 
-Projet 3D réalisé avec Unity d'exploration/aventure/enigme, dans un univers de Pirate.
+Projet 3D réalisé avec Unity d'exploration/aventure/enigme, dans un univers de Pirate(non aboutie).
 Ce jeu reposera sur une narration simple(à définir) dans lequel le joueur sera amené à explorer une archipel en quête d'un trésor légendaire. Il devra franchir différents obstacles et accomplir diverses enigmes afin d'y parvenir.
 Ce projet est actuellement en stand-bye, je tiens à poursuivre plus tard cette expérience mais je consacre actuellement tout mon temps au projet RTS.
 
