@@ -8,6 +8,8 @@ Je tiens à préciser que je m'inspire de tutoriels et guides proposés par d'au
 
 Et, je n'utilise que mes assets(dessin, modèle 3D etc...).
 
+Vous pouvez accéder aux modèles 3D utilisés pour ce projet à cette adresse : https://github.com/sbugeas/3D_Modeles_GIT
+
 Outils :
 
 - Unity
