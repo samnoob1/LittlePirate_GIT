@@ -6,10 +6,10 @@ Ce projet est actuellement en stand-bye, je tiens à poursuivre plus tard cette 
 
 Outils :
 
--Unity
+- Unity
 
--Blender
+- Blender
 
--Visual Studio(C#)
+- Visual Studio(C#)
 
 
